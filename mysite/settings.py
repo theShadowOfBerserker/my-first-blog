@@ -25,7 +25,7 @@ SECRET_KEY = 'lcrzj32d3v9o6_v6ar_ga7$qhtcoyu-nbl!junlgi2kfmu@$=z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ShadowOfAxon.pythonanywhere.com']
 
 
 # Application definition
